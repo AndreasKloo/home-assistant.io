@@ -113,6 +113,7 @@ script:
 - TX-65EXW784
 - TX-L42ET50
 - TX-P42STW50
+- TX-P42VT30Y
 - TX-P50GT30Y
 - TX-P50GT60E
 - TH-32ES500
@@ -120,5 +121,6 @@ script:
 - TX55ASW654
 - TX-55FZ802B
 - TX-55ASM655
+- TX-75EX780E
 
 If your model is not on the list, give it a test. If everything works correctly, then add it to the list on [GitHub](https://github.com/home-assistant/home-assistant.io/blob/current/source/_integrations/panasonic_viera.markdown).
